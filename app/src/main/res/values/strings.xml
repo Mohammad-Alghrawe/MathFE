@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MathFE</string>
+    <string name="mathfe">MathFE</string>
 </resources>
